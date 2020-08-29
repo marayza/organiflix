@@ -1,0 +1,22 @@
+{
+    "categorias":[
+        {
+            "id": 1,
+            "nome": "Cat 1",
+            "descricao": "Uma categoria bacanuda",
+            "cor": "#6bd1ff"
+        } ,
+        {
+            "id": 2,
+            "nome": "Cat 2",
+            "descricao": "Uma categoria bacanuda",
+            "cor": "#6bd1ff"
+        } ,
+        {
+            "id": 3,
+            "nome": "Cat 3",
+            "descricao": "Uma categoria bacanuda",
+            "cor": "#6bd1ff"
+        } 
+    ]
+}
